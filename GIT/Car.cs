@@ -8,5 +8,9 @@ namespace GIT
 {
     internal class Car
     {
+        public Car()
+        {
+            
+        }
     }
 }
