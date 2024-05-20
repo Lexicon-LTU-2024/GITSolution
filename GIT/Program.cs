@@ -10,7 +10,21 @@ namespace GIT
             int x = 1;
             int y = 2;
 
+            if (x != y)
+            {
+                //
+                int v = 3;
+
+            }
+
             int result = Add(x, y);
+
+            int temp = 0;
+            for (int i = 0; i < 10000; i++)
+            {
+                //Other code
+                temp = i;
+            }
           
         }
 
