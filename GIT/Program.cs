@@ -7,6 +7,9 @@
        
 
             Console.WriteLine("Hej");
+            Console.WriteLine("Hej");
+            Console.WriteLine("Hej");
+            Console.WriteLine("Hej");
         }
     }
 }
