@@ -8,22 +8,16 @@ internal class Program
     {
         int changeThisLater = 10;
 
-        int result = RemoveInsteadOfAdd(1, 2);
-        int result2 = RemoveInsteadOfAdd(1, 2);
-        int result3 = RemoveInsteadOfAdd(1, 2);
+        int result = Banan(1, 2);
+        int result2 = Banan(1, 2);
+        int result3 = Banan(1, 2);
 
 
-        DoSomething2();
-        DoSomething2();
+        DoSomething();
 
       
       
       
-    }
-
-    private static void DoSomething2()
-    {
-       
     }
 
     private static int RemoveInsteadOfAdd(int x, int y)
