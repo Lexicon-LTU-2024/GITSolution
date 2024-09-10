@@ -16,7 +16,7 @@ internal class Program
       
     }
 
-    private static int Add(int x, int y)
+    private static int RemoveInsteadOfAdd(int x, int y)
     {
         return x + y;
     }
