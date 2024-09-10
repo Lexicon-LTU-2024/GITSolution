@@ -17,15 +17,10 @@ internal class Program
 
       
       
+      
     }
 
-    private static void DoSomething()
-    {
-        int x = 5;
-        Console.Write(x);
-    }
-
-    private static int Banan(int x, int y)
+    private static int RemoveInsteadOfAdd(int x, int y)
     {
         return x + y;
     }
