@@ -8,15 +8,24 @@ internal class Program
     {
 
 
-        int result = Add(1, 2);
-        int result2 = Add(1, 2);
-        int result3 = Add(1, 2);
+        int result = Banan(1, 2);
+        int result2 = Banan(1, 2);
+        int result3 = Banan(1, 2);
+
+
+        DoSomething();
 
       
       
     }
 
-    private static int Add(int x, int y)
+    private static void DoSomething()
+    {
+        int x = 5;
+        Console.Write(x);
+    }
+
+    private static int Banan(int x, int y)
     {
         return x + y;
     }
