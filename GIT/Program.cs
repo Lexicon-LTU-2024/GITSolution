@@ -10,6 +10,7 @@ internal class Program
 
         int result = Add(1, 2);
         int result2 = Add(1, 2);
+        int result3 = Add(1, 2);
 
       
       

@@ -8,9 +8,11 @@ namespace GIT
 {
     internal class Car
     {
-        public Car()
+        private readonly string name;
+
+        public Car(string name)
         {
-            
+            this.name = name;
         }
     }
 }
