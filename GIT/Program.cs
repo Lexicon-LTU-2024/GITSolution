@@ -8,16 +8,22 @@ internal class Program
     {
 
 
-        int result = Banan(1, 2);
-        int result2 = Banan(1, 2);
-        int result3 = Banan(1, 2);
+        int result = RemoveInsteadOfAdd(1, 2);
+        int result2 = RemoveInsteadOfAdd(1, 2);
+        int result3 = RemoveInsteadOfAdd(1, 2);
 
 
-        DoSomething();
+        DoSomething2();
+        DoSomething2();
 
       
       
       
+    }
+
+    private static void DoSomething2()
+    {
+       
     }
 
     private static int RemoveInsteadOfAdd(int x, int y)
