@@ -15,6 +15,8 @@ internal class Program
 
         DoSomething2();
         DoSomething2();
+        DoSomething2();
+        DoSomething2();
 
       
       
